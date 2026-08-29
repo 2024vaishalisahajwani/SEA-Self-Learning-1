@@ -527,41 +527,7 @@ Thus, these concepts collectively support a structured and continuous software d
 
 ---
 
-# 9. Key Learning Outcomes
-
-Through this self-learning activity, I understood the following:
-
-1. **Agile** supports iterative development, flexibility, customer collaboration, and continuous improvement.
-
-2. **DevOps** connects development and operations and emphasizes automation, continuous delivery, and reliable software deployment.
-
-3. **Jira** is particularly useful for software-development teams for managing user stories, tasks, bugs, and Agile workflows.
-
-4. **Asana** provides flexible project and task management for technical as well as non-technical teams.
-
-5. **User stories** describe requirements from the user's point of view.
-
-6. **Acceptance criteria** define clear and testable conditions for completing a user story.
-
-7. **Advanced requirement elicitation techniques** such as interviews, ethnography, observation, workshops, and prototyping help identify both explicit and hidden requirements.
-
-8. **RTM** provides traceability between requirements, development activities, and testing.
-
-9. **IBM DOORS** supports structured requirements management, traceability, collaboration, and change management.
-
-10. These practices work together to improve **software quality, collaboration, requirement coverage, traceability, and efficient project delivery**.
-
----
-
-# 10. Conclusion
-
-This self-learning activity provided an understanding of important concepts used in modern Software Engineering and Architecture. Agile focuses on iterative development and continuous customer feedback, while DevOps extends collaboration and automation across software delivery and operations. Tools such as Jira and Asana help teams organize and track project activities, while IBM DOORS supports formal requirements management and traceability.
-
-The study of user stories, acceptance criteria, requirement elicitation techniques, and RTM showed how stakeholder needs can be transformed into clear, implementable, and testable requirements. Overall, these practices work together to improve collaboration, software quality, traceability, flexibility, and efficient delivery throughout the software development lifecycle.
-
----
-
-# 11. References
+# 9. References
 
 1. Amazon Web Services (AWS) – *What is DevOps?*
 2. Atlassian – *Jira and Agile Project Management Resources*
